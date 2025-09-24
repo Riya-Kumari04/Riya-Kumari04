@@ -1,17 +1,15 @@
 ## Hi there 👋, I'm Riya Kumari  
 
 ## 🌟 About Me  
-- 🎓 Computer Science student  
-- 💻 Passionate about Web Development & Cloud Computing  
-- 🚀 Always eager to learn and explore new technologies  
+- 🎓 Enthusiastic and adaptable graduate with knowledge of software development concepts, databases, and modern technologies. Seeking an entry-level IT role to apply technical skills and      enhance professional growth.
+- - 🔭 I’m currently working on improving my skills in **Full Stack Development** and building personal projects.  
 
 ## 🔗 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link/)  
-[![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram&logoColor=white)](https://instagram.com/your-link/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riya-kumari-4b72741b2/)  
+- 📫: [riyabest04@gmail.com](mailto:riyabest04@gmai.com)
+
 
 ## 🛠️ Tech Stack  
-## 🛠️ Skills  
-
 ### 🚩 Programming Languages  
 <p>
   <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/> Java  
@@ -60,15 +58,3 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Riya-Kumari04&layout=compact&theme=radical)  
 
 
-<!--
-**Riya-Kumari04/Riya-Kumari04** is a ✨ _special_ ✨ repository.
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
