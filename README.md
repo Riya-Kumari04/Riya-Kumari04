@@ -10,6 +10,15 @@
 [![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram&logoColor=white)](https://instagram.com/your-link/)  
 
 ## 🛠️ Tech Stack  
+### 🛠️ Languages and Tools:
+<p>
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
+  <img src="https://img.icons8.com/color/48/spring-logo.png"/>
+  <img src="https://img.icons8.com/color/48/react-native.png"/>
+  <img src="https://img.icons8.com/color/48/amazon-web-services.png"/>
+  <img src="https://img.icons8.com/color/48/git.png"/>
+</p>
+
 ![Java](https://img.shields.io/badge/Java-orange?logo=java&logoColor=white)  
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-green?logo=spring&logoColor=white)  
 ![React](https://img.shields.io/badge/React-blue?logo=react&logoColor=white)  
