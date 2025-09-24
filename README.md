@@ -2,7 +2,7 @@
 
 ## 🌟 About Me  
 - 🎓 Enthusiastic and adaptable graduate with knowledge of software development concepts, databases, and modern technologies. Seeking an entry-level IT role to apply technical skills and      enhance professional growth.
-- - 🔭 I’m currently working on improving my skills in **Full Stack Development** and building personal projects.  
+- 🔭 I’m currently working on improving my skills in **Full Stack Development** and building personal projects.  
 
 ## 🔗 Connect with me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riya-kumari-4b72741b2/)  
