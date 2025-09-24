@@ -15,6 +15,10 @@
 ![React](https://img.shields.io/badge/React-blue?logo=react&logoColor=white)  
 ![AWS](https://img.shields.io/badge/AWS-black?logo=amazon-aws&logoColor=orange)  
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Riya-Kumari04&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=Riya-Kumari04)
+
+
 ## 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Riya-Kumari04&show_icons=true&theme=radical)  
 
