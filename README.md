@@ -5,12 +5,9 @@
 - 🔭 I’m currently working on improving my skills in **Full Stack Development** and building personal projects.  
 
 ## 🔗 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riya-kumari-4b72741b2/)  
-- 📫: [riyabest04@gmail.com](mailto:riyabest04@gmai.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riya-kumari-4b72741b2/)  📫: [riyabest04@gmail.com](mailto:riyabest04@gmai.com)
 
-
-## 🛠️ Tech Stack  
-## 🛠️ Skills  
+# 🛠️ Tech Stack  
 
 ### 🚩 Programming Languages  
 <p>
