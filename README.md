@@ -1,5 +1,5 @@
 ## Hi there 👋,
-### I'm Riya Kumari recently graduated from Techno Main Salt Lake, Kolkata(2025).
+### I'm Riya Kumari recently completed my B.Tech in Computer Science and Engineering from Techno Main Salt Lake, Kolkata(2025).  
 - 🎓 Enthusiastic and adaptable graduate with knowledge of software development concepts, databases, and modern technologies. Seeking an entry-level IT role to apply technical skills and      enhance professional growth.
 - 🔭 I’m currently working on improving my skills in **Full Stack Development** and building personal projects.  
 
