@@ -5,7 +5,7 @@
 
 ### 🧑‍💻 About Me
 - 🌱 Currently improving my **DSA skills** and building **Full-Stack Projects**
-- 💻 Skilled in **HTML, CSS, JavaScript, Java, C++, Oracle, MySQL, JDBC, Servlet, Hibernate, Spring Core**
+- 💻 Skilled in **HTML, CSS, JavaScript, Java, OOPs, MySQL, JDBC, Servlet, Hibernate, Spring Core**
 - ⚡ Love solving coding challenges and learning new technologies
 - 💬 Ask me about **Frontend Development, Java Backend, or Database Design**
 - 🎯 Goal: To become a **Software Engineer** at a top tech company
