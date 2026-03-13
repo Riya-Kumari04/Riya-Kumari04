@@ -38,6 +38,17 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 ---
+## 📊 GitHub Stats
+
+![Riya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Riya-Kumari04&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Riya-Kumari04&layout=compact&theme=tokyonight)
+
+---
+
+## 📈 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Riya-Kumari04&theme=github-dark)
 
 ### 🌐 Connect With Me
 <p align="center">
