@@ -30,7 +30,7 @@
 
 #### ☕ Backend & Database
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,oracle,hibernate" />
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,oracle,hibernate"/>
 </p>
 
 #### 🧠 Tools & Platforms
