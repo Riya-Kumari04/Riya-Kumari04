@@ -46,9 +46,9 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Riya-Kumari04&layout=compact&theme=tokyonight)
 
 ---
-## 🐍 Contribution Snake
+## 👀 Profile Views
 
-![Snake animation](https://github.com/Riya-Kumari04/Riya-Kumari04/blob/output/github-contribution-grid-snake.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=Riya-Kumari04&color=blue)
 ## 📈 Contribution Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Riya-Kumari04&theme=github-dark)
@@ -72,3 +72,4 @@
 ---
 
 ⭐️ From [Riya Kumari](https://github.com/Riya-Kumari04)
+> “Code. Learn. Build. Repeat.”
