@@ -36,6 +36,10 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 ---
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Riya-Kumari04&theme=tokyonight&hide_border=true)
+---
 ## 📊 GitHub Stats
 
 ![Riya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Riya-Kumari04&show_icons=true&theme=tokyonight)
