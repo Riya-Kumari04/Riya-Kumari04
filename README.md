@@ -1,6 +1,7 @@
 ## Hi there 👋,
 ### I'm Riya Kumari recently completed my B.Tech in Computer Science and Engineering from Techno Main Salt Lake, Kolkata(2025).  
-- 🎓 Enthusiastic and adaptable graduate with knowledge of software development concepts, databases, and modern technologies. Seeking an entry-level IT role to apply technical skills and      enhance professional growth.
+- 🎓 Enthusiastic and adaptable graduate with knowledge of software development concepts, databases, and modern technologies.
+-     Seeking an entry-level IT role to apply technical skills and enhance professional growth.
 - 🔭 I’m currently working on improving my skills in **Full Stack Development** and building personal projects.  
 
 ## 🛠️ Tech Stack  
@@ -48,11 +49,40 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Riya-Kumari04)
 
 
+
+
 ## 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Riya-Kumari04&show_icons=true&theme=radical)  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Riya-Kumari04&layout=compact&theme=radical)  
 
-## 🔗 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riya-kumari-4b72741b2/)  📫: [Mail-Id](mailto:riyabest04@gmai.com)
 
+# Hi there 👋 I'm Riya Kumari
+
+🎓 **B.Tech Graduate in Computer Science and Engineering (2025)**  
+📍 Techno Main Salt Lake, Kolkata  
+
+I am an enthusiastic and adaptable Computer Science graduate with a strong foundation in **software development, databases, and modern web technologies**. I enjoy building practical applications and continuously improving my technical skills.
+
+Currently seeking an **entry-level opportunity in the IT industry** where I can apply my knowledge, contribute to real-world projects, and grow as a developer.
+
+---
+
+## 💻 About Me
+
+🔭 Currently improving my skills in **Full Stack Development**  
+🌱 Learning more about **React, Spring Boot, and backend development**  
+💡 Interested in building **scalable and user-friendly web applications**  
+🚀 Passionate about learning new technologies and solving real-world problems with code
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: riyabest04@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/riya-kumari-4b72741b2/  
+🐙 GitHub: https://github.com/Riya-Kumari04
+
+---
+
+⭐ *Always eager to learn, build, and collaborate on exciting projects!*
