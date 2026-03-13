@@ -4,7 +4,7 @@
 ---
 
 ### 🧑‍💻 About Me
-- 🌱 Currently improving my **DSA skills on LeetCode** and building **Full-Stack Projects**
+- 🌱 Currently improving my **DSA skills** and building **Full-Stack Projects**
 - 💻 Skilled in **HTML, CSS, JavaScript, Java, C++, Oracle, MySQL, JDBC, Servlet, Hibernate, Spring Core**
 - ⚡ Love solving coding challenges and learning new technologies
 - 💬 Ask me about **Frontend Development, Java Backend, or Database Design**
