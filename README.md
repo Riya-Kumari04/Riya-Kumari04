@@ -5,7 +5,7 @@
 
 ## 👩‍💻 About Me
 
-🎓 B.Tech Graduate in **Computer Science & Engineering (2025)** from **Techno Main Salt Lake, Kolkata**  
+🎓 B.Tech Graduate in **Computer Science & Engineering** from **Techno Main Salt Lake, Kolkata**  
 
 I am an enthusiastic and motivated **entry-level developer** with a strong foundation in **Java, Web Development, and Database Management**. I enjoy building full-stack applications, solving coding problems, and continuously learning new technologies.
 
